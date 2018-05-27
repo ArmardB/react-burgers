@@ -1,7 +1,7 @@
 import React from 'react';
 import BuildControl from './BuildControl/BuildControl';
 
-import classes from "/Users/armardbellamy/Desktop/React/react-burgers/src/components/Burger/BuildControls/BuildControls.css";
+import classes from '../BuildControls/BuildControls.css';
 
 const controls = [
   { label: "Lettuce", type: "lettuce" },
